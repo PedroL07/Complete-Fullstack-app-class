@@ -1,3 +1,5 @@
+![fullstack log](img.jpg)
+
 ## Installation
 
 1. Clone repo
